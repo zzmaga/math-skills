@@ -4,9 +4,10 @@ import (
 	"bufio"
 	"fmt"
 	"math"
-	"mathskills/mathskills"
 	"os"
 	"strconv"
+
+	"github.com/zzmaga/math-skills/mathskills"
 )
 
 func main() {
